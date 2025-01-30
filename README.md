@@ -1,4 +1,4 @@
-<h1>Hi, I'm Finnis! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/finnis-caldwell-67707473/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@cybermoney4949">YouTuber</a></h1>
+<h1>Hi, I'm Finnis! <br/><a href="https://github.com/joshmadakor1">Programmer</a><a href="https://www.linkedin.com/in/finnis-caldwell-67707473/">l</a> || <a href="https://www.youtube.com/@cybermoney4949">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -6,8 +6,8 @@
 - <b>se_project_coffeeshop</b>
 -  [coffeeshop](https://feecasso.github.io/se_project_coffeeshop/)
 
-- <b>se_project_coffeeshop</b>
--  [coffeeshop](https://feecasso.github.io/bike-service/)
+- <b>Bike.io</b>
+-  [Bike.io](https://feecasso.github.io/bike-service/)
 
 
 
