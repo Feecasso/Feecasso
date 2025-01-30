@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1>Hi, I'm Finnis! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/finnis-caldwell-67707473/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@cybermoney4949">YouTuber</a></h1>
 
-<!--
-**Feecasso/Feecasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>se_project_coffeeshop</b>
+-  [coffeeshop](https://feecasso.github.io/se_project_coffeeshop/)
+
+- <b>se_project_coffeeshop</b>
+-  [coffeeshop](https://feecasso.github.io/bike-service/)
+
+
+
+- <b>se_project_spots</b>
+- [Project_Spots](https://feecasso.github.io/se_project_spots/)
+
+  
+<h2>📺 Popular YouTube Videos</h2>
+
+- [SE__Spots](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/finnis-caldwell-67707473/
