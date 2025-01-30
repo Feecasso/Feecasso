@@ -1,4 +1,4 @@
-<h1>Hi, I'm Finnis! <br/><a href="https://github.com/joshmadakor1">Programmer</a><a href="https://www.linkedin.com/in/finnis-caldwell-67707473/">l</a> || <a href="https://www.youtube.com/@cybermoney4949">YouTuber</a></h1>
+<h1>Hi, I'm Finnis! <br/><a href="https://github.com/joshmadakor1">Programmer</a><a href="https://www.linkedin.com/in/finnis-caldwell-67707473/"></a> || <a href="https://www.youtube.com/@cybermoney4949">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
