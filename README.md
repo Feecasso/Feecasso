@@ -2,22 +2,22 @@
 
 
 ## ⚠️ Vulnerability Management Projects
-- **[Vulnerability Management Program Implementation](https://github.com/Feecasso/Vulnerability-Management-Program-Implementation)**
+- **[⚠️ Vulnerability Management Program Implementation](https://github.com/Feecasso/Vulnerability-Management-Program-Implementation)**
   
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]coming soon)**
+- **[⚠️ Programmatic Vulnerability Remediations (PowerShell and BASH)]coming soon)**
 - 
   ## 🚨 Threat Hunting and Security Operations
- **[creation of mini soc and honeypot](coming soon)**
+ **[🚨creation of mini soc and honeypot](coming soon)**
  
-  **[Threat hunting detection usecase](coming soon)**
+  **[🚨Threat hunting detection usecase](coming soon)**
   
- **[Threat Hunting Scenario (Tor Browser Usage)](coming soon)**
+ **[🚨Threat Hunting Scenario (Tor Browser Usage)](coming soon)**
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
--  [Bike.io](https://feecasso.github.io/bike-service/)
+- 👨‍💻 [Bike.io](https://feecasso.github.io/bike-service/)
   
-- [Project_Spots](https://feecasso.github.io/se_project_spots/)
+- 👨‍💻[Project_Spots](https://feecasso.github.io/se_project_spots/)
 
 <h2>📺 Popular YouTube Videos</h2>
 
