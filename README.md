@@ -1,5 +1,5 @@
-<h1>Hi, I'm Finnis! <br/><a href="https://github.com/Feecasso?tab=repositories">Programmer</a><a href="https://www.linkedin.com/in/finnis-caldwell-67707473/"></a> IT and Cybersecurity 👨‍💻🔐
-|| <a href="https://www.youtube.com/@cybermoney4949">YouTuber</a></h1>
+<h1>Hi, I'm Finnis! <br/><a href="https://github.com/Feecasso?tab=repositories">Programmer IT and Cybersecurity </a><a href="https://www.linkedin.com/in/finnis-caldwell-67707473/"></a> 👨‍💻🔐
+
 
 ## ⚠️ Vulnerability Management Projects
 
