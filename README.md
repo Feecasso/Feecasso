@@ -2,6 +2,16 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- 
+  ## 🚨 Threat Hunting and Security Operations
+ **[creation of mini soc and honeypot](coming soon)**
+  **[Threat hunting detection usecase](coming soon)**
+ **[Threat Hunting Scenario (Tor Browser Usage)](coming soon)**
+
 
 - <b>se_project_coffeeshop</b>
 -  [coffeeshop](https://feecasso.github.io/se_project_coffeeshop/)
