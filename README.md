@@ -8,7 +8,9 @@
 - 
   ## 🚨 Threat Hunting and Security Operations
  **[creation of mini soc and honeypot](coming soon)**
+ 
   **[Threat hunting detection usecase](coming soon)**
+  
  **[Threat Hunting Scenario (Tor Browser Usage)](coming soon)**
 
 <h2>👨‍💻 Software Development Projects:</h2>
