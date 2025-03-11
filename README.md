@@ -12,8 +12,9 @@
  **[Threat Hunting Scenario (Tor Browser Usage)](coming soon)**
 
 <h2>👨‍💻 Software Development Projects:</h2>
--  [coffeeshop](https://feecasso.github.io/se_project_coffeeshop/)
+
 -  [Bike.io](https://feecasso.github.io/bike-service/)
+  
 - [Project_Spots](https://feecasso.github.io/se_project_spots/)
 
 <h2>📺 Popular YouTube Videos</h2>
