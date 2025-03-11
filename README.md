@@ -1,4 +1,4 @@
-<h1>Hi, I'm Finnis! <br/><a href="https://github.com/feecaso">Programmer</a><a href="https://www.linkedin.com/in/finnis-caldwell-67707473/"></a> IT and Cybersecurity Project Portfolio 🔐
+<h1>Hi, I'm Finnis! <br/><a href="https://github.com/feecaso">Programmer</a><a href="https://www.linkedin.com/in/finnis-caldwell-67707473/"></a> IT and Cybersecurity 👨‍💻🔐
 || <a href="https://www.youtube.com/@cybermoney4949">YouTuber</a></h1>
 
 ## ⚠️ Vulnerability Management Projects
