@@ -1,4 +1,4 @@
-<h1>Hi, I'm Finnis! <br/><a href="https://github.com/Feecasso?tab=repositories">Programmer IT and Cybersecurity </a><a href="https://www.linkedin.com/in/finnis-caldwell-67707473/"></a> 👨‍💻🔐⚠️🚨
+<h1>Hi, I'm Finnis! <br/><a href="https://github.com/Feecasso?tab=repositories">Programmer IT and Cybersecurity professional </a><a href="https://www.linkedin.com/in/finnis-caldwell-67707473/"></a> 👨‍💻🔐⚠️🚨
 
 
 ## ⚠️ Vulnerability Management Projects
