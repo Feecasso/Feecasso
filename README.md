@@ -3,7 +3,7 @@
 
 ## ⚠️ Vulnerability Management Projects
 - **[⚠️ Vulnerability Management Program Implementation](https://github.com/Feecasso/Vulnerability-Management-Program-Implementation)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Feecasso/Feecasso-Programmatic-Vulnerability-Remediations-PowerShell-and-BASH-)**
+- **[⚠️Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Feecasso/Feecasso-Programmatic-Vulnerability-Remediations-PowerShell-and-BASH-)**
   ## 🚨 Threat Hunting and Security Operations
  **[🚨creation of mini soc and honeypot](coming soon)**
  
