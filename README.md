@@ -16,8 +16,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - 👨‍💻 [Bike.io](https://feecasso.github.io/bike-service/)
-  
 - 👨‍💻[Project_Spots](https://feecasso.github.io/se_project_spots/)
+- 👨‍💻 [se_project_todo-app](https://feecasso.github.io/se_project_todo-app/)
+-  👨‍💻 [se_project_coffeeshop](https://github.com/tripleten-com/se_project_coffeeshop)
 
 <h2>🤳 Connect with me</h2>
 
