@@ -7,6 +7,7 @@
   ## 🚨 Threat Hunting and Security Operations
  **[🚨creation of mini soc and honeypot](coming soon)**
  
+  **[🚨Devices-Exposed-to-the-Internet ](https://github.com/Feecasso/-Devices-Exposed-to-the-Internet)**
   **[🚨Threat hunting detection usecase](coming soon)**
   
  **[🚨Threat Hunting Scenario (Tor Browser Usage)](coming soon)**
