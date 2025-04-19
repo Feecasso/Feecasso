@@ -5,11 +5,11 @@
 - **[⚠️ Vulnerability Management Program Implementation](https://github.com/Feecasso/Vulnerability-Management-Program-Implementation)**
 - **[⚠️Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Feecasso/Feecasso-Programmatic-Vulnerability-Remediations-PowerShell-and-BASH-)**
   ## 🚨 Threat Hunting and Security Operations
+**[🚨Devices-Exposed-to-the-Internet ](https://github.com/Feecasso/-Devices-Exposed-to-the-Internet)**
+  
  **[🚨creation of mini soc and honeypot](coming soon)**
  
-  **[🚨Devices-Exposed-to-the-Internet ](https://github.com/Feecasso/-Devices-Exposed-to-the-Internet)**
-  
-  **[🚨Threat hunting detection usecase](coming soon)**
+ **[🚨Threat hunting detection usecase](coming soon)**
   
  **[🚨Threat Hunting Scenario (Tor Browser Usage)](coming soon)**
 
