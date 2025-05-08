@@ -10,7 +10,7 @@
 
 **[🚨Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Feecasso/Threat-Hunt-Report-Unauthorized-TOR-Usage/tree/main)**
   
- **[🚨creation of mini soc and honeypot](coming soon)**
+ **[🚨creation of mini soc and honeypot](https://github.com/Feecasso/Internshipthreathunting/blob/main/README.md)**
  
  **[🚨Threat hunting detection:USER Downloaded TikTok](https://github.com/Feecasso/Internshipthreathunting/blob/main/TiktokDownloadedbyUSERRisk.md)**
   
