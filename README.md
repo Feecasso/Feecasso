@@ -12,7 +12,7 @@
   
  **[🚨creation of mini soc and honeypot](coming soon)**
  
- **[🚨Threat hunting detection usecase](coming soon)**
+ **[🚨Threat hunting detection:USER Downloaded TikTok](https://github.com/Feecasso/Internshipthreathunting/blob/main/TiktokDownloadedbyUSERRisk.md)**
   
 
 
